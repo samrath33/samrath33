@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samrath33
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...JQuery
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...JavaScript
+- 💞️ I’m looking to collaborate on ... anything!!
+- 📫 How to reach me ...samrath_sidhu@outlook.com
 
 <!---
 samrath33/samrath33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
